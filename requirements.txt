@@ -1,0 +1,7 @@
+numpy>=1.24
+cvxpy>=1.4
+pandas>=2.0
+plotly>=5.18
+streamlit>=1.30
+gymnasium>=0.29
+stable-baselines3>=2.2
